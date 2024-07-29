@@ -1,2 +1,2 @@
 # DSA
-This is a repository to save all the DSA questions that I will be solving
+DSA Questions solved from Leetcode, CodingNinjas, GeeksForGeeks etc.
